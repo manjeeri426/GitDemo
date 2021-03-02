@@ -21,4 +21,15 @@ public class SeliniumTest {
 	{
 		System.out.println("hello world");
 	}
+	
+	@Test
+	public void appium()
+	{
+		System.out.println("Hello this is selenium java framework ");
+	}
+	@Test
+	public void appium2()
+	{
+		System.out.println("Ram krishna Hari");
+	}
 }
